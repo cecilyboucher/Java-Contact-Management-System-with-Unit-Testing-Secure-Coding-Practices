@@ -45,3 +45,9 @@ Ensures that contact data is handled reliably and securely by validating inputs 
 - Expand to full user account system
 - Add REST API layer
 - Improve test coverage with integration testing
+
+---
+
+## 👩‍💻 Author
+Cecily Boucher  
+GitHub: https://github.com/cecilyboucher
